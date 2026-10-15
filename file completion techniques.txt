@@ -1,0 +1,3 @@
+file name ending with "pj" states that the file is perfectly completed with 0 errors and 0 incompletes
+
+if the file is ending with any other name except "pj" it states that the file is incompleted
